@@ -19,8 +19,7 @@
 │   ├── var37_for.c      # OpenMP версия с директивой for
 │   ├── var37_task.c     # OpenMP версия с директивой task
 │   └── var37_mpi.c      # MPI версия
-├── results/             # Результаты тестирования
-├── plots/              # Графики производительности
+├── shell_scripts/             # Shell скрипты для тестирования
 └── README.md
 ```
 
